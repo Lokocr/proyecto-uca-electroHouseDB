@@ -53,3 +53,12 @@ VALUES
 ('Celular iPhone 13', 'Telefonía', 950.00, 8),
 ('Parlante JBL', 'Audio', 120.00, 15);
 GO
+
+
+-- ==========================================================
+-- CONSULTAS DE PRUEBA
+-- ==========================================================
+SELECT * FROM Clientes;
+SELECT * FROM Productos;
+GO
+
